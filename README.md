@@ -95,3 +95,17 @@ India Air Quality & Health Impact Analytics (2015-2025)
 - Dashboard/: The .pbix file for local exploration.
 
 - Screenshots/: High-resolution images of the final dashboard.
+
+  <img width="951" height="439" alt="Screenshot 2026-04-17 194354" src="https://github.com/user-attachments/assets/3e26ad36-aa54-4327-a347-36627eaca218" />
+
+  <img width="955" height="312" alt="Screenshot 2026-04-17 194423" src="https://github.com/user-attachments/assets/7c9ae3a9-d704-4ee7-a78a-951cae4bc224" />
+
+<img width="941" height="448" alt="Screenshot 2026-04-17 194437" src="https://github.com/user-attachments/assets/62e15017-681c-478f-bb7d-c1a6e245fe32" />
+
+<img width="946" height="445" alt="Screenshot 2026-04-17 194455" src="https://github.com/user-attachments/assets/0a106bdf-b1e1-4ed0-9117-17d5f1c637a2" />
+
+<img width="356" height="315" alt="Screenshot 2026-04-17 193813" src="https://github.com/user-attachments/assets/050dd894-20c4-477f-a080-88ca8526f696" />
+
+
+
+
